@@ -1,0 +1,10 @@
+{
+	"welcome":
+	{
+		"mp3":"cbiteau/in"
+	},
+	"goodbye":
+	{
+		"mp3":"cbiteau/out"
+	}
+}
